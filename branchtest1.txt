@@ -2,3 +2,4 @@ branch master line 1
 branch master line 2 [A
 branch master line 3
 line 1 in rebase
+line 2 in rebase
