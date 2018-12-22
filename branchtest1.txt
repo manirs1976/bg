@@ -1,2 +1,3 @@
 branch master line 1
 branch master line 2 [A
+branch master line 3
